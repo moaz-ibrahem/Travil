@@ -300,7 +300,7 @@ section {
 }
 .tours .grid .box .price {
     position: absolute;
-    left: 3rem ; top: 2.9rem;
+    left: 1.5rem ; top: 1.2rem;
     border-radius: .5rem;
     background: var(--light-black);
     font-size: 1.8rem;
@@ -314,7 +314,7 @@ section {
     color: var(--white);
 }
 .tours .grid .box .image {
-    height: 20rem;
+    height: 25rem;
     width: 100%;
     object-fit: cover;
     border-radius: 0.5rem;
